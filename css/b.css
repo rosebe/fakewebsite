@@ -1,0 +1,146 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+.active {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  background: #20b2aa;
+  height: 62px;
+  line-height: 50px;
+  overflow: hidden;
+  font: normal 15px auto "微软雅黑", Verdana, Arial, Helvetica, sans-serif;
+}
+.active a.logo img {
+  height: 57px;
+  margin: 5px 5px 5px 0;
+}
+.ldiv {
+  float: left;
+  line-height: 62px;
+}
+.rdiv {
+  float: right;
+  line-height: 62px;
+}
+.m {
+  height: 50px;
+  line-height: 50px;
+  font: bold 20px auto "微软雅黑", Verdana, Arial, Helvetica, sans-serif;
+  color: #fff;
+  text-decoration: none;
+  padding: 8px;
+}
+.maike {
+  line-height: 24px;
+  width: 100%;
+  max-width: 900px;
+  overflow: hidden;
+  margin: 0 auto;
+  background: #f2f2f2;
+  position: relative;
+  font: normal 18px auto "微软雅黑", Verdana, Arial, Helvetica, sans-serif;
+}
+.block {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 15px;
+}
+.active-c {
+  color: white;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  background: #c0c0c0;
+  height: 40px;
+  overflow: hidden;
+  font: normal 12px auto "微软雅黑", Verdana, Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.active-c a {
+  color: white;
+  text-decoration: none;
+  padding: 0 1px;
+  line-height: 40px;
+}
+.p {
+  font: 18px auto "微软雅黑", Verdana, Arial, Helvetica, sans-serif;
+  line-height: 36px;
+  padding: 20px 18px 20px 18px;
+  margin: -20px auto;
+  font-size: 18pt;
+}
+.title {
+  text-align: left;
+  font: bold 20px auto "微软雅黑", Verdana, Arial, Helvetica, sans-serif;
+  padding: 15px;
+  font-size: 22px;
+}
+.timg {
+  text-align: center;
+}
+.simg {
+  max-width: 100%;
+}
+.p1 {
+  font: 15px auto "微软雅黑", Verdana, Arial, Helvetica, sans-serif;
+  line-height: 32px;
+  padding: 18px;
+  margin: -20px auto;
+  font-size: 16pt;
+}
+.title_l {
+  font: bold 20px auto "微软雅黑", Verdana, Arial, Helvetica, sans-serif;
+  padding: 18px;
+}
+.readers-list {
+  line-height: 14px;
+  text-align: left;
+  overflow: hidden;
+  _zoom: 1;
+}
+.readers-list li {
+  width: 270px;
+  float: left;
+  *margin-right: -1px;
+  list-style: none;
+  white-space: nowrap;
+}
+.readers-list a,
+.readers-list a:hover strong {
+  white-space: nowrap;
+  background-color: #f2f2f2;
+  background-image: -webkit-linear-gradient(#f8f8f8, #f2f2f2);
+  background-image: -moz-linear-gradient(#f8f8f8, #f2f2f2);
+  background-image: linear-gradient(#f8f8f8, #f2f2f2);
+}
+.readers-list a {
+  white-space: nowrap;
+  font-size: 15px;
+  font-family: 微软雅黑;
+  position: relative;
+  display: block;
+  height: 26px;
+  margin: 4px;
+  padding: 10px 1px 1px 10px;
+  color: #000;
+  text-decoration: none;
+  overflow: hidden;
+  border: #ccc 1px solid;
+  border-radius: 2px;
+  box-shadow: #eee 0 0 2px;
+}
+h1 {
+  font-size: 24px;
+}
+a {
+  color: #ff6633;
+  text-decoration: none;
+}
+img {
+  border: 0px;
+}
